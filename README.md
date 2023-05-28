@@ -29,7 +29,7 @@ In the interest of time I have provided a .3mf file of the assembly. This can be
 
 Normal voron settings worked for me. 40% infill with 4 outer lines
 
-Make sure your printer is fully tunes as there are tight tolerances on the bearings and slideing parts
+Make sure your printer is fully tuned as there are tight tolerances on the bearings and sliding parts
 
 The only part that requires support is the larger hexigon part on the end bearings. This must be printed so that the inner circle is facing up and not an overhang as shown below
 
