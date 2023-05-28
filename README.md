@@ -40,7 +40,7 @@ The end bearings require the most bbs and can be tedious. It is not represented 
 
 ![cutortho](https://github.com/magicpants2/bekindrewind/assets/134864582/621b4f16-e537-4379-b9c3-d1b80c7193e2)
 
-Winding the spring into the mandrel is dangerous and requires some finess and patience. There are some videos on youtube on how to take apart the tape measure that I suggest you reaserch on your own. I highly suggest ppe. Gloves and safety glasses are a must. I had many cuts from the spring getting loose and very nearly lost an eye. So I cannot under state how decivingly dangerous it can be. As such I am not responsible for you ill advised experements. I might make a video in the future but as of now this is a beta test
+Start by pressing the 608 bearing into the hex in the mandrel. Winding the spring into the mandrel is dangerous and requires some finess and patience. There are some videos on youtube on how to take apart the tape measure that I suggest you reaserch on your own. I highly suggest ppe. Gloves and safety glasses are a must. I had many cuts from the spring getting loose and very nearly lost an eye. So I cannot under state how decivingly dangerous it can be. As such I am not responsible for your ill advised experements. I might make a video in the future but as of now this is a beta test
 
 I suggest using 1 of the spiral parts (Diagram shows 3) to make for 3 rotations. To many rotations can pull the spring out of the mandrel and force you to rebuild the spring assembly
 
@@ -50,4 +50,6 @@ assemble the mandrel and other parts as shown on the shaft then slide the assemb
 
 Make sure everything spins freely and smoothly. I use 3 in 1 oil to lubricate all the parts that move. To set the torque limiter rotate the threaded hex until it is almost tight. Rotate the entire assembly to wind it up. It should rotate the 3 times without slipping. Loosen the nut and repeat the process until it slips when fully wound but not before. It can be a little tricky. 
 
-I am wrapping electrical tape around the main body in order to attatch it to the spool for testing, there is currently no stand yet
+I am wrapping electrical tape around the main body in order to attatch it to the spool for testing, there is currently no stand yet. 
+
+Please keep in mind this is in beta testing and it is not yet ready for full implementation
