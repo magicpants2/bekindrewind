@@ -24,7 +24,12 @@ The spring coils inside the mandrel and rotates around the center shaft. Sprial 
 Printed parts
 
 # Part settings
+
+In the interest of time I have provided a .3mf file of the assembly. This can be brought into your slicer and ungrouped. From there the parts can be oriented in the best way for strength 
+
 Normal voron settings worked for me. 40% infill with 4 outer lines
+
+Make sure your printer is fully tunes as there are tight tolerances on the bearings and slideing parts
 
 The only part that requires support is the larger hexigon part on the end bearings. This must be printed so that the inner circle is facing up and not an overhang as shown below
 
