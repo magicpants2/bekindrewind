@@ -21,6 +21,8 @@ The spring coils inside the mandrel and rotates around the center shaft. Sprial 
 
 2 M3*8
 
+1 8*15*.3 spring washer
+
 Printed parts
 
 # Part settings
